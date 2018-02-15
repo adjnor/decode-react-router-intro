@@ -8,7 +8,7 @@ npm start
 
 ## Video
 
-https://www.dropbox.com/s/rnq5zrecbzm2myb/reactrouterintro.zip?dl=0
+https://www.youtube.com/watch?v=eqay-fTEl3Q
 
 ## VsCode Extensions
 
